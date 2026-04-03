@@ -1,10 +1,6 @@
 // ============================================================
 //  Weather App — script.js
 //  API: WeatherAPI (https://www.weatherapi.com)
-//
-//  NOTE: API key is visible in client-side JS — this is
-//  fine for a student / portfolio project. For a production
-//  app, move the key to a server-side environment variable.
 // ============================================================
 
 const API_KEY = "4a719da334a945a9951145233260603";
